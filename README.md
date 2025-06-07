@@ -2,7 +2,7 @@
 
 - How to play:
 1. Use the arrow keys (or `W`, `S`, `A`, `D`) to move the tiles.
-2. `U` to undo the last move, R to redo the game
+2. `U` to undo the last move, `R` to redo the last undo move.
 3. `E` to exit the game.
 4. `Enter` to confirm. 
 

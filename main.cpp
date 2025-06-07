@@ -1,4 +1,4 @@
-#include "headers/MyGame2048.h"
+#include "Resources/headers/MyGame2048.h"
 
 int main()
 {
